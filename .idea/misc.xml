@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProject/Android_Tuan3/app/src/main/res/drawable/border_button.xml" value="0.1695" />
+        <entry key="..\:/AndroidStudioProject/Android_Tuan3/app/src/main/res/drawable/ratingbar.xml" value="0.1765" />
+        <entry key="..\:/AndroidStudioProject/Android_Tuan3/app/src/main/res/layout/activity_lab03c1.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProject/Android_Tuan3/app/src/main/res/layout/activity_lab03c3.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProject/Android_Tuan3/app/src/main/res/layout/activity_lab03c4.xml" value="0.33" />
         <entry key="..\:/AndroidStudioProject/Android_Tuan3/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProject/Android_Tuan3/app/src/main/res/layout/lab_03c_1.xml" value="0.3625" />
       </map>
     </option>
   </component>
